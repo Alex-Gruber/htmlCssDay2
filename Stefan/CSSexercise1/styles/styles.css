@@ -3,21 +3,7 @@ div{
     border-style: solid;
     margin: 5px;
 }
+#first #third > p{
+    font-size: 2rem;
 
-#third p{
-    visibility: hidden;
-}
-#third span p{
-    visibility: visible
-}
-h1{
-    visibility: hidden;
-}
-
-#second div{
-    visibility: hidden;
-}
-
-#sixth img{
-    visibility: visible;
 }
