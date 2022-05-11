@@ -11,5 +11,13 @@ div{
     visibility: visible
 }
 h1{
-    visibility: ;
+    visibility: hidden;
+}
+
+#second div{
+    visibility: hidden;
+}
+
+#sixth img{
+    visibility: visible;
 }
